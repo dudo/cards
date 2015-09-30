@@ -1,0 +1,21 @@
+{
+  "name": "cards",
+  "version": "0.0.0",
+  "private": true,
+  "description": "just cards...",
+  "dependencies": {
+    "babel-brunch": "^5.1.2",
+    "react": "^0.14.0-rc1",
+    "reflux": "^0.2.12",
+    "react-router": "^1.0.0-rc1"
+  },
+  "devDependencies": {
+    "javascript-brunch": "^1.7.1",
+    "sass-brunch": "^1.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dudo",
+  "license": "ISC"
+}
